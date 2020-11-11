@@ -81,7 +81,7 @@ public class RNTextInputMaskModule extends ReactContextBaseJavaModule {
                     public void run() {
                         MaskedTextChangedListener listener = new MaskedTextChangedListener(
                                 mask,
-                                true,
+                                false,
                                 editText,
                                 null,
                                 null

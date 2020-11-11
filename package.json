@@ -1,12 +1,41 @@
 {
-  "name": "react-native-text-input-mask",
-  "version": "2.0.0",
-  "description": "Text input mask for React Native.",
-  "main": "index.js",
-  "repository": {
+  "_args": [
+    [
+      "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+      "/Users/office/aquadeliverycourierv2"
+    ]
+  ],
+  "_from": "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+  "_id": "react-native-text-input-mask@git+https://github.com/NepeinAV/react-native-text-input-mask.git#faf9a4ae6fd4e788396070542f64ffed17db79f1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-text-input-mask",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "https://github.com/react-native-community/react-native-text-input-mask"
+    "raw": "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+    "rawSpec": "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+    "saveSpec": "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+    "fetchSpec": "https://github.com/NepeinAV/react-native-text-input-mask.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/NepeinAV/react-native-text-input-mask.git#faf9a4ae6fd4e788396070542f64ffed17db79f1",
+  "_spec": "git+https://github.com/NepeinAV/react-native-text-input-mask.git",
+  "_where": "/Users/office/aquadeliverycourierv2",
+  "author": {
+    "name": "Ivan Zotov"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
+  },
+  "description": "Text input mask for React Native.",
+  "devDependencies": {
+    "@react-native-community/eslint-config": "0.0.2"
+  },
+  "homepage": "https://github.com/react-native-community/react-native-text-input-mask",
   "keywords": [
     "react",
     "native",
@@ -15,12 +44,11 @@
     "android",
     "ios"
   ],
-  "devDependencies": {
-    "@react-native-community/eslint-config": "0.0.2"
+  "main": "index.js",
+  "name": "react-native-text-input-mask",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-community/react-native-text-input-mask.git"
   },
-  "author": "Ivan Zotov",
-  "bugs": {
-    "url": "https://github.com/react-native-community/react-native-text-input-mask/issues"
-  },
-  "homepage": "https://github.com/react-native-community/react-native-text-input-mask"
+  "version": "2.0.1"
 }
